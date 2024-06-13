@@ -39,8 +39,8 @@ It provides CRUD operations, database management, and an AI service integration.
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd <your-project-folder>
+   git clone <https://github.com/raminok/AI.git>
+   cd CRM
    ```
 
 2. **Create and activate a virtual environment**
@@ -100,4 +100,4 @@ This project is licensed under the **MIT License** – feel free to use and modi
 ---
 
 ### ✨ Author
-Developed with ❤️ by **Your Name**
+Developed with ❤️ by **Ramin Orak**
