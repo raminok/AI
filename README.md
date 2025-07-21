@@ -90,7 +90,7 @@ It provides CRUD operations, database management, and an AI service integration.
 
 The `ai_service.py` module provides AI-related features that can be integrated into the CRM workflow.
 
-![alt text](image-1.png)
+![alt text](image.png)
 ---
 
 ## 📜 License
