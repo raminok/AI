@@ -100,4 +100,4 @@ This project is licensed under the **MIT License** – feel free to use and modi
 ---
 
 ### ✨ Author
-❤️ Developed with **Ramin Orak 2024**
+❤️ Developed with **Ramin Orak Jun 2024**
